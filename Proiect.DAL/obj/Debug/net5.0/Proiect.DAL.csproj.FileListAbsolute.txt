@@ -1,0 +1,12 @@
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.deps.json
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.dll
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\bin\Debug\net5.0\ref\Proiect.DAL.dll
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.pdb
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.AssemblyInfoInputs.cache
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.AssemblyInfo.cs
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.csproj.CoreCompileInputs.cache
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.dll
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\ref\Proiect.DAL.dll
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.pdb
+C:\Users\virgil.turcu\source\repos\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.csproj.AssemblyReference.cache
